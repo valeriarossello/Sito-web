@@ -1,0 +1,57 @@
+header { 
+       font-family: Almarai;
+       background-color: #000000;
+       color: rgb(255, 255, 255);
+       }
+ 
+main { 
+background-color: 151313;
+color: rgb(255, 255, 255);
+}
+
+mainclass section div { 
+   background-color: D9D9D9;
+   color: rgb(0, 0, 0);
+   width: 427px;
+   height: 544px;
+   scrollbar-shadow-color: #000000;
+}
+
+mainclass section div h1{ 
+font-size: 250%;
+}
+
+main h1 {
+   margin-left: 2cm;
+}
+
+main section p {
+   margin-left: 2cm;
+}    
+
+main section h2{
+   font-size: 500%; 
+}
+
+main img { 
+   margin-right:2cm; 
+} 
+
+footer { 
+background-color: 151313;
+color: rgb(255, 255, 255);
+} 
+
+footer h1{ 
+   font-size: 700%; 
+   margin-left: 1cm;
+}
+
+footer h2{ 
+   font-size: 200%; 
+   margin-left: 1cm;
+}
+
+footer h3{ 
+   margin-left: 1cm;
+}
